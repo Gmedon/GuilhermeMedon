@@ -9,7 +9,7 @@
 Me chamo Guilherme Medon, tenho 19 anos.
 - 🌱 Atualmente estou aprendendo - Desenvolvimento Web Full-Stack, Administração, Educação Ambiental.
 - 🔭 Atualmente estou trabalhando em - Suporte a tecnologia no Projeto Emunah (Trabalho Voluntário)
-- ⚡ Curiosidade: Gosto de jogar futebol, Jiu-Jitsu é estudar tudo que envolva programação.
+- ⚡ Curiosidade: Gosto de jogar futebol, Jiu-Jitsu e estudar tudo que envolva programação.
 <hr/>
 <div>
 # Contatos <br/> <br/>
@@ -26,4 +26,10 @@ Me chamo Guilherme Medon, tenho 19 anos.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-<div/>
+<div/><br/><br/>
+                                                                                                         
+<div align="center">
+
+  ![Snake animation](https://github.com/Gmedon/Gmedon/blob/output/github-contribution-grid-snake.svg)
+
+</div>
