@@ -4,9 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RayanArgolo03&label=Profile%20views&color=0e75b6&style=flat" alt="RayanArgolo03" /></p>
 <img src=https://media.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif" width="30%" height="30%" align="right" border-radius="50%" alt="Gif Gato Digitando.">
+<a href="https://gmedon.github.io/Portifolio/" target="_blank">portifolio<a/>
 
 
-Me chamo Guilherme Medon, tenho 19 anos.
+Me chamo Guilherme Medon, tenho 20 anos.
 - 🌱 Atualmente estou aprendendo - Desenvolvimento Web Full-Stack, Administração, Educação Ambiental.
 - 🔭 Atualmente estou trabalhando em - Suporte a tecnologia no Projeto Emunah (Trabalho Voluntário)
 - ⚡ Curiosidade: Gosto de jogar futebol, Jiu-Jitsu e estudar tudo que envolva programação.
