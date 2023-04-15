@@ -1,34 +1,50 @@
-## <p align="center">Hello World 👋</p>
+# Bem-vindo à minha página no GitHub! 🚀
 
-<!-- ... -->
+## Sobre mim 👨‍💻
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RayanArgolo03&label=Profile%20views&color=0e75b6&style=flat" alt="RayanArgolo03" /></p>
-<img src=https://media.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif" width="30%" height="30%" align="right" border-radius="50%" alt="Gif Gato Digitando.">
-<a href="https://gmedon.github.io/Portifolio/" target="_blank">portifolio<a/>
+Olá, eu sou Guilherme Medon, um desenvolvedor apaixonado por tecnologia e inovação. Desde que comecei a programar, eu descobri que a melhor parte de ser um desenvolvedor é a oportunidade de criar coisas novas e ver como as pessoas interagem com elas.
+
+## Tecnologias 🛠️
+
+Eu trabalho com várias tecnologias, incluindo:
+
+- <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> **HTML:** Eu utilizo HTML para construir a estrutura da minha página, e para criar conteúdo.
+
+- <img src="https://img.icons8.com/color/48/000000/css3.png"/> **CSS:** Com CSS, eu posso estilizar minha página e torná-la mais atraente visualmente.
+
+- <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> **JavaScript:** Utilizo JavaScript para criar interatividade e tornar minha página mais dinâmica.
+
+- <img src="https://img.icons8.com/color/48/000000/typescript.png"/> **TypeScript:** Recentemente comecei a aprender TypeScript, é uma linguagem tipada que oferece muitas vantagens em relação ao JavaScript.
+
+- <img src="https://img.icons8.com/color/48/000000/react-native.png"/> **React:** Eu adoro trabalhar com React, uma biblioteca JavaScript para criar interfaces de usuário. Com ela, eu posso criar componentes reutilizáveis e organizar meu código de maneira mais eficiente.
+
+- <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> **NodeJs:** Utilizo NodeJs para criar aplicativos de servidor que fornecem dados para minha aplicação cliente.
+
+- <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> **MySql:** Utilizo o MySql como meu banco de dados, eu o utilizo para armazenar e gerenciar dados de usuário, pedidos, entre outros.
+
+- <img src="https://img.icons8.com/color/48/000000/git.png"/> **Git:** Eu uso o Git para versionar meu código e para colaborar em projetos com outros desenvolvedores.
+
+- <img src="https://img.icons8.com/color/48/000000/github--v1.png"/> **GitHub:** Utilizo o GitHub para hospedar meus projetos e compartilhar meu código com outros desenvolvedores.
+
+## Projetos 🚧
+
+Aqui estão alguns dos meus projetos favoritos que eu trabalhei recentemente:
+
+- [Nome do projeto 1](link para o projeto): Descrição breve do projeto.
+
+- [Nome do projeto 2](link para o projeto): Descrição breve do projeto.
+
+- [Nome do projeto 3](link para o projeto): Descrição breve do projeto.
+
+Se você tiver interesse em colaborar com algum desses projetos, fique à vontade para entrar em contato comigo!
+
+## Contato 📞
+
+Você pode me encontrar nas seguintes redes sociais:
+
+- <img src="https://img.icons8.com/color/48/000000/linkedin.png"/> https://linkedin.com/in/Gmedon
 
 
-Me chamo Guilherme Medon, tenho 20 anos.
-- 🌱 Atualmente estou aprendendo - Desenvolvimento Web Full-Stack, Administração, Educação Ambiental.
-- 🔭 Atualmente estou trabalhando em - Suporte a tecnologia no Projeto Emunah (Trabalho Voluntário)
-- ⚡ Curiosidade: Gosto de jogar futebol, Jiu-Jitsu e estudar tudo que envolva programação.
-<hr/>
-<div>
-# Contatos <br/> <br/>
-<a href="https://instagram.com/guilhermemedonn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:guilhermememedon@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/Gmedon" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div> <hr/>
-<div>
-# Tecnologias <br/> <br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-<div/><br/><br/>
-                                                                                                         
 <div align="center">
 
   ![Snake animation](https://github.com/Gmedon/Gmedon/blob/output/github-contribution-grid-snake.svg)
