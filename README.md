@@ -3,6 +3,7 @@
 ## Sobre mim 👨‍💻
 
 Olá, eu sou Guilherme Medon, um desenvolvedor apaixonado por tecnologia e inovação. Desde que comecei a programar, eu descobri que a melhor parte de ser um desenvolvedor é a oportunidade de criar coisas novas e ver como as pessoas interagem com elas.
+Meu portifolio: https://gmedon.github.io/Portifolio/
 
 ## Tecnologias 🛠️
 
@@ -30,11 +31,11 @@ Eu trabalho com várias tecnologias, incluindo:
 
 Aqui estão alguns dos meus projetos favoritos que eu trabalhei recentemente:
 
-- [Nome do projeto 1](link para o projeto): Descrição breve do projeto.
+- [Canil] (https://projeto-canil.vercel.app/): Projeto desenvolvido para teste de conhecimentos, foi aplicado a tecnologia NodeJs junto com TypeScript.
 
-- [Nome do projeto 2](link para o projeto): Descrição breve do projeto.
+- [Jogo QuemSouEu](https://jogo-quem-sou-eu.vercel.app/): Jogo desenvolvido para realização de trabalho proposto por minha professora de meio ambiente, tecnologias
+- utlizada: NodeJs.
 
-- [Nome do projeto 3](link para o projeto): Descrição breve do projeto.
 
 Se você tiver interesse em colaborar com algum desses projetos, fique à vontade para entrar em contato comigo!
 
